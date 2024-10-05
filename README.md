@@ -1,2 +1,2 @@
 # README.md
-Expected to graduate with Bachelor of Science - Software Engineering in July 2025
+Expected to graduate with Bachelor of Science - Software Engineering in Fall 2025
